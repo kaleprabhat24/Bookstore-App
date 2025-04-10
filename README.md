@@ -7,15 +7,17 @@
 - **Semester:** 4th
 - **Branch:** Computer Science and Engineering (Artificial Intelligence and Machine Learning)
 
-## Output 
-![output gif](https://github.com/user-attachments/assets/e03f0bbf-6a20-4369-9a79-66e9687dc2b2)
-![Screenshot 2025-04-11 015207](https://github.com/user-attachments/assets/eecfe328-b1cf-4fa5-b4da-027ca4d0b597)
-![Screenshot 2025-04-11 015139](https://github.com/user-attachments/assets/cd2e656d-15b6-4391-abaf-a06254294b00)
-![Screenshot 2025-04-11 014241](https://github.com/user-attachments/assets/be460c23-7868-4e04-a4a9-6ee75e8f7a78)
-![Screenshot 2025-04-11 014227](https://github.com/user-attachments/assets/3dd0f711-fb9d-41dc-8cdd-5c307c2993a9)
-![Screenshot (5)](https://github.com/user-attachments/assets/b50cca4c-c860-418f-807c-1542b07cd18b)
-![Screenshot (7)](https://github.com/user-attachments/assets/3c113a28-0d9d-4cfb-82e7-7d941bff1be9)
-![Screenshot (10)](https://github.com/user-attachments/assets/5b02a0fc-06ce-48d6-9fd5-53bd129c1dc5)
+## Output:
+
+![bookstore gif](https://github.com/user-attachments/assets/f3a8831c-0a07-446f-ae93-26c71ddf1cf2)
+![Screenshot 2025-04-11 022543](https://github.com/user-attachments/assets/8a536f9a-3cc4-4898-b6ff-21462827156d)
+![Screenshot 2025-04-11 022559](https://github.com/user-attachments/assets/7a2d3f53-6a61-4b46-9d21-a886d3ed34da)
+![Screenshot 2025-04-11 022649](https://github.com/user-attachments/assets/d90d7512-57b5-42d8-9372-09fb101db0e5)
+![Screenshot 2025-04-11 022723](https://github.com/user-attachments/assets/847286f5-bde3-4d11-b554-43104290fc6a)
+![Screenshot 2025-04-11 022737](https://github.com/user-attachments/assets/6ae71f20-cc7c-432a-a885-98ef7c27bf70)
+![Screenshot 2025-04-11 023040](https://github.com/user-attachments/assets/fa586a29-7e88-4c12-a79b-d43b5b6baa56)
+![Screenshot 2025-04-11 023148](https://github.com/user-attachments/assets/9272d235-eb16-4ab6-8dcf-9e15f41e5298)
+![Screenshot 2025-04-11 023159](https://github.com/user-attachments/assets/44754e08-8e87-4f3a-b3ce-38d342e38071)
 
 
 
